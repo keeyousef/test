@@ -24,6 +24,8 @@ onMounted(() => {
     isLoading.value = false;
   }, 2000)
 })
+
+console.log('asdasd');
 </script>
 
 <template>
