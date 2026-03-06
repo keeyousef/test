@@ -28,7 +28,10 @@ onMounted(() => {
 console.log('asdasd');
 console.log('asdasd');
 console.log('asdasd');
-console.log('asdasd');
+console.log('dfgdfgdf');
+console.log('ddfgdfgdf');
+console.log('gdfgdfg');
+console.log('gdfgdfgdfg');
 </script>
 
 <template>
